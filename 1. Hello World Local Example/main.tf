@@ -1,4 +1,4 @@
 resource local_file sample_res {
-  filename = "sample.txt"
-  content = "Hello World!"
+  filename = var.filenames
+  content = var.contents
 }
