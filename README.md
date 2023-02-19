@@ -2,14 +2,15 @@
 
 ## My GCP-Terraform-Repo
 
-### 1. Hello World Local Example
-
-#### Commands:
+### Commands:
 ```sh
 terraform init
 terraform plan
 terraform apply
+terraform destroy
 ```
 
-### 2. Create GCS Bucket
+## 1. Hello World Local Example
+
+## 2. Create GCS Bucket
 
