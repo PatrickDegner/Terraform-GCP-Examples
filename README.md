@@ -1,6 +1,7 @@
 # Terraform-GCP-Examples
 
-## My GCP-Terraform-Repo
+* First Create a Key for your Service Account and download it as JSON
+* Insert into your Folder
 
 ### Commands:
 ```sh
