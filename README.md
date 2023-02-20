@@ -14,3 +14,4 @@ terraform destroy
 
 ## 2. Create GCS Bucket
 
+## 3. Create VPC Subnet Firewall Rule
