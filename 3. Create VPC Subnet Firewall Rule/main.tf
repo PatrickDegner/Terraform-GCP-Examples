@@ -26,9 +26,9 @@ resource "google_compute_firewall" "allow-tcp" {
   network = google_compute_network.custom-vpc-tf.id
   allow {
     protocol = "tcp"
-    ports    = ["80", "8080"]
+    ports    = ["80", "8080", "22"]
   }
-  source_ranges = ["5.146.39.118/32"]
+  source_ranges = ["5.146.39.118/32",  "35.235.240.0/20"]
   priority = 500
 }
 
