@@ -1,7 +1,7 @@
 # Terraform-GCP-Examples
 
-* First Create a Key for your Service Account and download it as JSON
-* Put the Key.json into the Main Folder
+* Create a key for your Service Account and download it as JSON
+* Put the Key.json into the Main Project Folder
 
 ### Commands:
 ```sh
