@@ -1,7 +1,7 @@
 # Terraform-GCP-Examples
 
-* First Create a Key for your Service Account and download it as JSON
-* Insert into your Folder
+* Create a key for your Service Account and download it as JSON
+* Put the Key.json into the Main Project Folder
 
 ### Commands:
 ```sh
@@ -16,3 +16,5 @@ terraform destroy
 ## 2. Create GCS Bucket
 
 ## 3. Create VPC Subnet Firewall Rule
+
+## 4. Create Compute Engine
