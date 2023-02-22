@@ -20,3 +20,5 @@ terraform destroy
 ## 4. Create Compute Engine
 
 ## 5. Create Cloud Run
+
+## 6. Create BigTable
