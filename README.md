@@ -18,3 +18,5 @@ terraform destroy
 ## 3. Create VPC Subnet Firewall Rule
 
 ## 4. Create Compute Engine
+
+## 5. Create Cloud Run
